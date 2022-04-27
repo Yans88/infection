@@ -1,0 +1,39 @@
+{
+    "filecode": "",
+    "common": {
+        "pref": "Pref",
+        "school_code": "School Code",
+        "grade": "GRADE",
+        "class_id": "ID Class"
+    },
+    "absence": {
+        "pref": "Pref",
+        "school_code": "School Code",
+        "grade": "GRADE",
+        "class_id": "ID Class",
+        "sympton": "Data Symptom"
+    },
+    "class_def": {
+        "pref": "Pref",
+        "school_code": "School Code",
+        "grade": "GRADE",
+        "class_id": "ID Class",
+        "class_name": "Data Class Name"
+    },
+    "disorder_head": {
+        "school_code": "School Code",
+        "class_id": "ID Class",
+        "pref": "Pref"
+    },
+    "disorder_ditale": {},
+    "close_data": {
+        "pref": "Pref",
+        "school_code": "School Code",
+        "grade": "GRADE",
+        "class_id": "ID Class"
+    },
+    "inst": {
+        "pref": "Pref",
+        "school_code": "School Code"
+    }
+}

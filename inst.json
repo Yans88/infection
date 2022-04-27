@@ -1,0 +1,23 @@
+{
+  "inst": [
+    {
+      "pref": "20",
+      "school_code": "5673",
+      "city": "Tokyo",
+      "division": "1",
+      "school_area": "",
+      "facility_name": "",
+      "person_in_charge": "PIC",
+      "tel": "",
+      "fax": "",
+      "address": "everywhere",
+      "mail": "mail_me@mail.com",
+      "director": "my director",
+      "doctor_mail_1": "doctor_mail1@mail.com",
+      "doctor_mail_2": "doctor_mail2@mail.com",
+      "doctor_mail_3": "doctor_mail3@mail.com",
+      "lost_flg": "",
+      "kbn": ""
+    }
+  ]
+}
