@@ -1,5 +1,5 @@
 # Infection
- Develop submodule on japanese system.
+ Develop submodule on Japanese system.
  
  
 See workflow.xlsx for workflow
